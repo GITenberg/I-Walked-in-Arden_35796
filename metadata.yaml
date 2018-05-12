@@ -1,0 +1,27 @@
+_repo: I-Walked-in-Arden_35796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crawford, Jack Randall
+    alias: Crawford, J. R. (Jack Randall)
+    birthdate: 1878
+    gutenberg_agent_id: '37905'
+    url: http://www.gutenberg.org/2009/agents/37905
+description: ''
+gutenberg_issued: '2011-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- England -- Fiction'
+title: I Walked in Arden
+url: http://www.gutenberg.org/ebooks/35796
