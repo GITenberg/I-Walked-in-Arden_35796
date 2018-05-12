@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37905'
     url: http://www.gutenberg.org/2009/agents/37905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35796#I-Walked-in-Arden
 gutenberg_issued: '2011-04-08'
 gutenberg_type: Text
 identifiers:
